@@ -4,6 +4,7 @@
 
 ## 📝 Artigos 
 
+- [Artigos sobre Artificial Intelligence no Dev Community #ai](https://dev.to/t/ai)
 - [Artigos de Inteligência Artificial da Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
 - [Agentes de IA: o que são, como funcionam e por que estão definindo o futuro do trabalho criativo | Globo Gente](https://gente.globo.com/agentes-de-ia-o-que-sao-e-como-funcionam/)
 
@@ -44,10 +45,10 @@
 
 ## :robot: IAs
 
-- ClaudeAI
-- ChatGPT
+- [ClaudeAI](https://claude.ai/)
+- [ChatGPT](https://chatgpt.com/)
 - DeepSeek
-- Google Gemini
+- [Google Gemini](https://gemini.google.com/)
 - Grok
 - [Luri, a Inteligência Artificial da Alura](https://www.alura.com.br/luri-inteligencia-artificial)
 - Microsoft Copilot
@@ -73,8 +74,8 @@
 ## :woman: Para mulheres
 
 - [Eu Programo PrograMaria - Análise de Dados: Meus primeiros passos em Python](https://www.programaria.org/cursos-programaria/analise-dados-primeiros-passos-python/)
-- [IT for Girls](https://www.maismulheres.tech/courses/it-for-girls-2025)
 - [Introdução à Inteligência Artificial | Mais mulheres em Tech](https://www.maismulheres.tech/courses/introducao-inteligencia-artificial)
+- [IT for Girls](https://www.maismulheres.tech/courses/it-for-girls-2025)
 - [Lives sobre IA | {reprograma}](https://www.instagram.com/reel/DCRwVaGPsSG/)
 - [PrograMaria Sprint - IA Generativa](https://vamosjuntes.programaria.org/programaria-sprint-ia-generativa)
 
