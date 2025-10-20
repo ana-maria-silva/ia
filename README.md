@@ -4,8 +4,8 @@
 
 ## 📝 Artigos 
 
-- [Artigos sobre Artificial Intelligence no Dev Community #ai](https://dev.to/t/ai)
-- [Artigos de Inteligência Artificial da Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
+- [Artigos sobre Artificial Intelligence | Dev Community #ai](https://dev.to/t/ai)
+- [Artigos de Inteligência Artificial | Alura](https://www.alura.com.br/artigos/inteligencia-artificial)
 - [Agentes de IA: o que são, como funcionam e por que estão definindo o futuro do trabalho criativo | Globo Gente](https://gente.globo.com/agentes-de-ia-o-que-sao-e-como-funcionam/)
 
 
